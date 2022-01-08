@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "*.php": "php",
+        "xstring": "cpp",
+        "algorithm": "cpp",
+        "utility": "cpp",
+        "chrono": "cpp",
+        "limits": "cpp",
+        "random": "cpp",
+        "valarray": "cpp",
+        "type_traits": "cpp"
+    }
+}
