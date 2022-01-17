@@ -22,5 +22,5 @@ int main()
         frequency[arr[i]]++;
     }
 
-    cout << *max_element(arr, arr + n) << " " << frequency[*max_element(arr, arr + n)] << endl;
+    cout << *max_element(arr, arr + n) << "\n" << frequency[*max_element(arr, arr + n)] << endl;
 }
