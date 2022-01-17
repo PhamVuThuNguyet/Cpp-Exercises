@@ -10,7 +10,8 @@
         "valarray": "cpp",
         "type_traits": "cpp",
         "iostream": "cpp",
-        "ostream": "cpp"
+        "ostream": "cpp",
+        "vector": "cpp"
     },
     "C_Cpp.errorSquiggles": "Disabled"
 }
